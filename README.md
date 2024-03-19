@@ -143,6 +143,12 @@
   - 🇫🇯 Pinetoken
 </details>
 
+<details>
+  <summary>Others</summary>
+
+  - 1Code
+  - PBbunnypower
+</details>
 and more...
 
 # The team work creators
