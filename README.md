@@ -63,6 +63,37 @@
   - 🇹🇷 Yusuf8a684
   - 🇹🇷 Pounkiller
   - 🇹🇷 Borbor
+  - 🇰🇷 царская колесницa
+  - 🇰🇷 Ssss
+  - 🇰🇷 Ssiat
+  - 🇰🇷 Naessin
+  - 🇰🇷 Dekuz
+  - 🇰🇷 Pederont
+  - 🇰🇷 Choggoba
+  - 🇰🇷 Msgmsgmsg
+  - 🇰🇷 Hihihihi
+  - 🇰🇷 Mun08
+  - 🇯🇵 Nnkkooo
+  - 🇯🇵 Kyoshimine
+  - 🇯🇵 Kai
+  - 🇨🇳 NSGSEI
+  - 🇨🇳 Maximum
+  - 🇨🇳 Linger
+  - 🇨🇳 Annsss
+  - 🇨🇳 Ripple
+  - 🇨🇳 Snowballs
+  - 🇨🇳 Patchouli k.
+  - 🇭🇰 Kevin hung
+  - 🇮🇳 Kal_433
+  - 🇮🇳 Kushagra
+  - 🇮🇳 Sou
+  - 🇵🇰 Dawood
+  - 🇧🇩 Strycedar
+</details>
+
+<details>
+  <summary>Southeast Asian</summary>
+  
   - 🇵🇭 Player
   - 🇵🇭 Hadestia
   - 🇵🇭 Desolan
@@ -100,33 +131,7 @@
   - 🇲🇾 Ahmad nur aizat
   - 🇲🇾 Penanglion
   - 🇲🇾 Cesareborgia
-  - 🇰🇷 царская колесницa
-  - 🇰🇷 Ssss
-  - 🇰🇷 Ssiat
-  - 🇰🇷 Naessin
-  - 🇰🇷 Dekuz
-  - 🇰🇷 Pederont
-  - 🇰🇷 Choggoba
-  - 🇰🇷 Msgmsgmsg
-  - 🇰🇷 Hihihihi
-  - 🇰🇷 Mun08
-  - 🇯🇵 Nnkkooo
-  - 🇯🇵 Kyoshimine
-  - 🇯🇵 Kai
-  - 🇨🇳 NSGSEI
-  - 🇨🇳 Maximum
-  - 🇨🇳 Linger
-  - 🇨🇳 Annsss
-  - 🇨🇳 Ripple
-  - 🇨🇳 Snowballs
-  - 🇨🇳 Patchouli k.
-  - 🇭🇰 Kevin hung
   - 🇹🇭 Leopolis
-  - 🇮🇳 Kal_433
-  - 🇮🇳 Kushagra
-  - 🇮🇳 Sou
-  - 🇵🇰 Dawood
-  - 🇧🇩 Strycedar
 </details>
 
 <details>
