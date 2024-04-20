@@ -110,6 +110,7 @@
   - 🇵🇭 Marahuyo
   - 🇵🇭 Coldbullet
   - 🇵🇭 Tochitto
+  - 🇵🇭 Marcato
   - 🇻🇳 Anhkatori
   - 🇻🇳 Bevise
   - 🇻🇳 The Leaf
@@ -144,7 +145,6 @@
 <details>
   <summary>Oceania</summary>
 
-  - 🇦🇺 Marcato
   - 🇫🇯 Pinetoken
 </details>
 
@@ -154,6 +154,7 @@
   - 1Code
   - PBbunnypower
 </details>
+
 and more...
 
 # The team work creators
