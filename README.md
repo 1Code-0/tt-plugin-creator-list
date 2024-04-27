@@ -2,8 +2,8 @@
 <details>
   <summary>American</summary>
 
-  - 🇺🇸 Kingtut
-  - 🇺🇸 Evan Wheeler
+  - 🇺🇸 KINGTUT10101
+  - 🇺🇸 Edubbs15 (Evan Wheeler)
   - 🇺🇸 AngelPanda
   - 🇺🇸 RayXP
   - 🇲🇽 Mg3094066
@@ -32,10 +32,10 @@
   - 🇳🇱 Qman02
   - 🇳🇱 Josh
   - 🇩🇪 Lobby
-  - 🇩🇪 Mdk 813
+  - 🇩🇪 Mdk_813
   - 🇩🇪 Kein
   - 🇦🇹 Saintkyrill
-  - 🇫🇷 Rockfort
+  - 🇫🇷 \_RockFort_
   - 🇫🇷 THEMAX
   - 🇫🇷 Xina
   - 🇮🇹 Galliano M
@@ -93,7 +93,7 @@
 
 <details>
   <summary>Southeast Asian</summary>
-  
+
   - 🇵🇭 Player
   - 🇵🇭 Hadestia
   - 🇵🇭 Desolan
@@ -110,13 +110,13 @@
   - 🇵🇭 Marahuyo
   - 🇵🇭 Coldbullet
   - 🇵🇭 Tochitto
-  - 🇵🇭 Marcato
+  - 🇵🇭 Marco Handres (Marcato)
   - 🇻🇳 Anhkatori
   - 🇻🇳 Bevise
   - 🇻🇳 The Leaf
   - 🇻🇳 Shirushiko
   - 🇻🇳 Kmr
-  - 🇮🇩 Ian
+  - 🇮🇩 ian`
   - 🇮🇩 Iborrobi
   - 🇮🇩 Arif
   - 🇮🇩 Stepanhie
@@ -138,7 +138,7 @@
 <details>
   <summary>African</summary>
 
-  - 🇲🇬 ur_sc4_guy
+  - 🇲🇬 ur\_sc4_guy
   - 🇳🇬 Danzk
 </details>
 
@@ -153,6 +153,7 @@
 
   - 1Code
   - PBbunnypower
+  - ArthurJ22
 </details>
 
 and more...
