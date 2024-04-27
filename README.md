@@ -138,7 +138,7 @@
 <details>
   <summary>African</summary>
 
-  - 🇲🇬 SC4 fan
+  - 🇲🇬 ur_sc4_guy
   - 🇳🇬 Danzk
 </details>
 
